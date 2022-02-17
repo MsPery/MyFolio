@@ -1,0 +1,14 @@
+static.json
+{
+    "root": "Public",
+    "clean-urls": "true",
+    "https_only": "true",
+    "error page": "error.error-html"
+    "headers": {
+        "/**":{
+            "Access-Control-Allow-Origin":"*"
+        }
+    }
+
+
+}
